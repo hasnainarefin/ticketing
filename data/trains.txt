@@ -1,0 +1,5 @@
+101 PadmaExpress Dhaka Rajshahi 30
+102 SundarbanExpress Dhaka Khulna 25
+103 SilkCity Dhaka Rajshahi 40
+104 SubarnaExpress Dhaka Chittagong 35
+105 EkotaExpress Dhaka Dinajpur 20
